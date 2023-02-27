@@ -1,0 +1,33 @@
+h1
+{
+    text-align: center;
+    background-color: fuchsia;
+}
+
+h3.Ingredients {
+    text-align: center;
+    background-color: aqua;
+    text-decoration: underline;
+}
+
+table
+{
+    background-color:cornflowerblue;
+    font-style: oblique;
+}
+
+h3.Instructions
+{
+    text-decoration: underline;
+    text-align: center;
+    background-color: burlywood;
+    color: brown;
+}
+body
+{
+    background-color:cornsilk;
+}
+ol
+{
+    font-style: italic;
+}
